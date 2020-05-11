@@ -1,0 +1,163 @@
+
+a {
+  color:#a6b1e1;
+  font-family: 'Raleway', sans-serif;
+}
+
+a:hover {
+  color:#EAF6F6;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 3.125rem auto 0;
+  color: #b9cced;
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 5.625rem;
+
+}
+
+h2 {
+  color: #b9cced;
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color:#a6b1e1;
+  font-family: 'Raleway', sans-serif;
+  margin: 1.25rem 0;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 0.5rem;
+  border-color: #dcd6f7;
+  margin: 100px auto;
+  width: 5%;
+}
+
+p {
+  line-height: 2;
+}
+
+span {
+  text-decoration: underline;
+}
+
+
+
+.top-container {
+  background-color: #f4eeff;
+  padding-top: 100px;
+  position: relative;
+  }
+
+.middle-container {
+  background-color: #fbf4f9;
+  padding: 100px 0;
+}
+
+.skill-row {
+  margin: 6.25rem auto;
+  text-align: left;
+  width: 50%;
+}
+
+.bottom-container {
+  background-color: #dcd6f7;
+  padding: 50px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.get-in-touch {
+  width: 33%;
+  margin: auto auto 60px;
+}
+
+.footer-link {
+  margin: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.copyright {
+  margin: 2.5rem 0 0 0;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.profile-img {
+  border-radius:45%;
+  width: 16.667%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+}
+
+.onigiri-img {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 100%;
+}
+
+.travel-img {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 100%;
+}
+
+.btn {
+  background: #DCD6F7;
+  background-image: -webkit-linear-gradient(top, #DCD6F7, #A6B1E1);
+  background-image: -moz-linear-gradient(top, #DCD6F7, #A6B1E1);
+  background-image: -ms-linear-gradient(top, #DCD6F7, #A6B1E1);
+  background-image: -o-linear-gradient(top, #DCD6F7, #A6B1E1);
+  background-image: linear-gradient(to bottom, #DCD6F7, #A6B1E1);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  height: 15px;
+  line-height: 15px;
+  color: #EAF6F6;
+  font-size: 1.25rem;
+  font-family: 'Raleway', sans-serif;
+  width: 160px;
+  font-weight: bold;
+  padding: 15px 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background-image: -webkit-linear-gradient(top, #b9cced, #DCD6F7);
+  background-image: -moz-linear-gradient(top, #b9cced, #DCD6F7);
+  background-image: -ms-linear-gradient(top, #b9cced, #DCD6F7);
+  background-image: -o-linear-gradient(top, #b9cced, #DCD6F7);
+  background-image: linear-gradient(to bottom, #b9cced, #DCD6F7);
+}
